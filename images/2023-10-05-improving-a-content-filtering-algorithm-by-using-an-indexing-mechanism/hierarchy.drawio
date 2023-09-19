@@ -1,0 +1,75 @@
+<mxfile host="Electron" modified="2023-10-18T07:10:12.582Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.2.8 Chrome/112.0.5615.165 Electron/24.2.0 Safari/537.36" etag="JWZc5CWmvpnsiNMjD5cE" version="21.2.8" type="device" pages="2">
+  <diagram name="Page-1" id="8FJWBJCjBKjTyFuXf2s3">
+    <mxGraphModel dx="1306" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TEADN2STsSZ7KUQ3OZ2m-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="TEADN2STsSZ7KUQ3OZ2m-4" target="TEADN2STsSZ7KUQ3OZ2m-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TEADN2STsSZ7KUQ3OZ2m-4" value="Football&lt;br&gt;[Sport]" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="340" y="230" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TEADN2STsSZ7KUQ3OZ2m-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="TEADN2STsSZ7KUQ3OZ2m-5" target="TEADN2STsSZ7KUQ3OZ2m-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TEADN2STsSZ7KUQ3OZ2m-5" value="NFL&lt;br&gt;[Competition]" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="340" y="360" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TEADN2STsSZ7KUQ3OZ2m-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="TEADN2STsSZ7KUQ3OZ2m-7" target="TEADN2STsSZ7KUQ3OZ2m-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TEADN2STsSZ7KUQ3OZ2m-7" value="Giants vs Seahawks&lt;br&gt;[Event]" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="340" y="490" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TEADN2STsSZ7KUQ3OZ2m-8" value="Team Scoring First Touchdown&amp;nbsp;&lt;br&gt;[Market]" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="340" y="620" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="XCccOOK2f5exVDU8t2UE" name="Page-2">
+    <mxGraphModel dx="1306" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MPZncQStAR02v24UHkhn-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="MPZncQStAR02v24UHkhn-2" target="MPZncQStAR02v24UHkhn-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MPZncQStAR02v24UHkhn-2" value="Football&lt;br&gt;[Sport]" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="340" y="230" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MPZncQStAR02v24UHkhn-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="MPZncQStAR02v24UHkhn-4" target="MPZncQStAR02v24UHkhn-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MPZncQStAR02v24UHkhn-4" value="NFL&lt;br&gt;[Competition]" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="340" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MPZncQStAR02v24UHkhn-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="MPZncQStAR02v24UHkhn-6" target="MPZncQStAR02v24UHkhn-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MPZncQStAR02v24UHkhn-6" value="Giants vs Seahawks&lt;br&gt;[Event]" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="340" y="410" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MPZncQStAR02v24UHkhn-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="MPZncQStAR02v24UHkhn-7" target="MPZncQStAR02v24UHkhn-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MPZncQStAR02v24UHkhn-7" value="Team Scoring First Touchdown&amp;nbsp;&lt;br&gt;[Market]" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="340" y="500" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MPZncQStAR02v24UHkhn-9" value="ID: 1" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="520" y="230" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MPZncQStAR02v24UHkhn-12" value="ID: 1" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="520" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MPZncQStAR02v24UHkhn-13" value="ID: 531321" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="520" y="410" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MPZncQStAR02v24UHkhn-14" value="ID: 1233" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="520" y="500" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

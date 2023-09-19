@@ -1,0 +1,35 @@
+<mxfile host="Electron" modified="2023-10-05T16:07:36.022Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.2.8 Chrome/112.0.5615.165 Electron/24.2.0 Safari/537.36" etag="OGqd8gODR0Nh7IL6LUO1" version="21.2.8" type="device">
+  <diagram name="Page-1" id="SbzX4xky1RNrwII16vOF">
+    <mxGraphModel dx="1306" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KyuRxZLlVgcCKYKfU9QH-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KyuRxZLlVgcCKYKfU9QH-1" target="KyuRxZLlVgcCKYKfU9QH-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KyuRxZLlVgcCKYKfU9QH-1" value="Content Filtering&lt;br&gt;System" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="360" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KyuRxZLlVgcCKYKfU9QH-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="KyuRxZLlVgcCKYKfU9QH-2" target="KyuRxZLlVgcCKYKfU9QH-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KyuRxZLlVgcCKYKfU9QH-2" value="Filtering Rules" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="190" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KyuRxZLlVgcCKYKfU9QH-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="KyuRxZLlVgcCKYKfU9QH-5" target="KyuRxZLlVgcCKYKfU9QH-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="315" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KyuRxZLlVgcCKYKfU9QH-5" value="Hierarchies" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="190" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KyuRxZLlVgcCKYKfU9QH-7" value="Valid Hierarchies" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="530" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
