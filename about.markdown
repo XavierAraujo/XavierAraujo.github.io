@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Hey there! 
+Hey there!
 
-I'm Xavier, a software engineer currently working at [Fanduel](https://www.linkedin.com/company/fanduel/). 
-Feel free to contact if you have any doubts or improvement suggestions about the articles shared here!
+I'm Xavier, a software engineer currently working at [Fanduel](https://www.linkedin.com/company/fanduel/).
+Feel free to contact me if you have any doubts or improvement suggestions about the articles shared here!
+
+![Profile Photo](/images/profile-photo.png)
